@@ -1,7 +1,7 @@
 # Xmplify for Mac – Automate and Optimize Your Workflow on macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/58640/l/xml-edita-logo.png?v=1648223726" alt="Xmplify Mac Logo" width="256" height="256">  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/a9/3d/cba93dff-10fa-8885-99b8-2fbacbaa5d88/icon.png/1200x630bb.png" alt="Xmplify Mac Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
@@ -23,7 +23,7 @@ The software allows you to:
 
 Xmplify is optimized for **macOS Ventura, Sonoma, and newer**, and runs seamlessly on both Intel and Apple Silicon Macs. Its lightweight design ensures fast performance without draining system resources.
 
-![Xmplify Interface](https://static.macupdate.com/screenshots/327544/m/xmplify-screenshot.png)
+![Xmplify Interface](https://mac-cdn.softpedia.com/screenshots/Xmplify_1.png)
 
 ---
 
